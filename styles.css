@@ -1,0 +1,10 @@
+
+.board{
+background:red;
+border: solid 1px black;
+}
+
+.board td{
+background:green;
+border: solid 1px black;
+}
